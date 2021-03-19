@@ -2,7 +2,7 @@ certifi==2018.8.13
 chardet==3.0.4
 Django==2.1
 django-filter==2.0.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 httpie==0.9.9
 idna==2.7
 Markdown==2.6.11
